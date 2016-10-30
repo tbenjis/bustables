@@ -1,1 +1,1 @@
-{"version":"10","xml_url":"http:\/\/raw.githubusercontent.com\/tbenjis\/bustables\/master\/ciubus_service.xml"}
+{"version":"8","xml_url":"http:\/\/raw.githubusercontent.com\/tbenjis\/bustables\/master\/ciubus_service.xml"}
