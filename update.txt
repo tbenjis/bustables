@@ -1,1 +1,1 @@
-{"version":"9","xml_url":"https://cdn.rawgit.com/tbenjis/bustables/master/ciubus_service.xml"}
+{"version":"9","xml_url":"http:\/\/ciu.stackarena.com\/ciubus_service.xml"}
