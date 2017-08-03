@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciubus>
+    <schedule>
+        <weekdays>
+           	<week>00:15</week>
+            <week>07:00</week>
+            <week>08:00</week>
+            <week>09:30</week>
+            <week>10:30</week>
+            <week>11:30</week>
+            <week>12:30</week>
+            <week>13:30</week>
+            <week>14:30</week>
+            <week>15:30</week>
+            <week>16:00</week>
+            <week>17:15</week>
+            <week>18:30</week>
+            <week>19:30</week>
+            <week>20:30</week>
+            <week>21:30</week>
+            <week>22:30</week>
+        </weekdays>
+        <saturdays>
+            <sat>08:00</sat>
+            <sat>09:30</sat>
+            <sat>11:30</sat>
+            <sat>13:30</sat>
+            <sat>15:30</sat>
+            <sat>17:30</sat>
+            <sat>19:30</sat>
+            <sat>21:30</sat>
+            <sat>23:30</sat>
+        </saturdays>
+        <sundays>
+            <sun>09:00</sun>
+            <sun>10:00</sun>
+            <sun>12:00</sun>
+            <sun>14:00</sun>
+            <sun>16:00</sun>
+            <sun>18:00</sun>
+            <sun>20:00</sun>
+            <sun>21:30</sun>
+            <sun>23:30</sun>
+        </sundays>
+    </schedule>
+    <destinations>
+        <lemar>
+            <lem>UKÜ'den Hareket</lem>
+            <lem>Hazırlık Okulu</lem>
+            <lem>Fakülteler önü</lem>
+            <lem>Yaysat Durağı</lem>
+            <lem>Honda Durak</lem>
+            <lem>Çangar Oto karşısı</lem>
+            <lem>Reis Süpermarket karşısı</lem>
+            <lem>Kaymaklı Mezarlığı</lem>
+            <lem>Royal Otel karşısı</lem>
+            <lem>Asal Şube yanı</lem>
+            <lem>Girne Kapısı</lem>
+            <lem>Belça Süpermarket karşısı</lem>
+            <lem>Amme Memurları karşısı</lem>
+            <lem>Gençlik ve Spor Dairesi</lem>
+            <lem>Sağlık Bakanlığı Karşısı</lem>
+            <lem>Ortaköy durağı</lem>
+            <lem>Lefkonuklu Kumaş Mağazası karşısı</lem>
+            <lem>Lemar durağı</lem>
+            <lem>T.M.K durağı</lem>
+            <lem>Kiler market yanı</lem>
+            <lem>Levent Site durağı 1.</lem>
+            <lem>Levent Site durağı 2.</lem>
+            <lem>İlşen Shopping durağı</lem>
+            <lem>Artesa durağı</lem>
+            <lem>Aksoy Karşısı</lem>
+            <lem>Fuar (Tören Alanı)</lem>
+            <lem>Sanayi durağı</lem>
+            <lem>Doktoroğlu Mağazası önü</lem>
+            <lem>Kıbrıs Gazetesi Yanı</lem>
+            <lem>Anıttepe durağı</lem>
+            <lem>Hamitköy durağı</lem>
+            <lem>Fakülteler önü</lem>
+            <lem>UKÜ Servis alanı (SON)</lem>
+        </lemar>
+        <gonyeli>
+            <gon>UKÜ'den Hareket</gon>
+            <gon>Hazırlık Okulu</gon>
+            <gon>Fakülteler önü</gon>
+            <gon>Yaysat Durağı</gon>
+            <gon>Beton Diş Kliniği Önü</gon>
+            <gon>Sanayi durağı karşısı</gon>
+            <gon>Lemar Market Önü</gon>
+            <gon>Aksoy Önü</gon>
+            <gon>Devlet Hastahanesi durağı</gon>
+            <gon>Sismar önü</gon>
+            <gon>Çağaloğlu Petrol karşısı</gon>
+            <gon>Cyprus Sporting LTD Karşısı</gon>
+            <gon>Vedat Benzinci</gon>
+            <gon>Sarı Taşlı Villalar durağı</gon>
+            <gon>Gürhans Garden kavşağı</gon>
+            <gon>Cyprus Sporting LTD</gon>
+            <gon>Yenikent Otel karşısı</gon>
+            <gon>Gönyeli Eski Belediye önü</gon>
+            <gon>Ballı Restaurant önü</gon>
+            <gon>Artesa durağı</gon>
+            <gon>Aksoy Karşısı</gon>
+            <gon>Fuar (Tören Alanı)</gon>
+            <gon>Sanayi durağı</gon>
+            <gon>Doktoroğlu Mağazası Önü</gon>
+            <gon>Kıbrıs Gazetesi Yanı</gon>
+            <gon>Anıttepe durağı</gon>
+            <gon>Hamitköy durağı</gon>
+            <gon>Fakülteler önü</gon>
+            <gon>UKÜ Servis alanı (SON)</gon>
+        </gonyeli>
+    </destinations>
+</ciubus>
