@@ -1,1 +1,1 @@
-{"version":"14","xml_url":"https://raw.githubusercontent.com/tbenjis/bustables/dev/ciubus_service_summer.xml"}
+{"version":"15","xml_url":"https://raw.githubusercontent.com/tbenjis/bustables/dev/ciubus_service_summer2.xml"}
