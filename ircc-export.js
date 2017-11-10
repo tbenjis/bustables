@@ -9,7 +9,7 @@
     ],
     "rules": [
       {
-        "code": "var rules = [{\n  \"name\": \"Akposjokes Website\",\n  \"url\": \"http://www.akposjokes.com/user/register\",\n  \"before\": function(resolve, context) {\n    var user = JSON.parse(Libs.h.userData());\n    resolve(user);\n  },\n  \"fields\": [{\n    \"selector\": \"input[name=name]\",\n    \"value\": function($e, user) {\n      return user.username;\n    }\n  }, {\n    \"selector\": \"input[name=mail]\",\n    \"value\": function($e, user) {\n      return user.email;\n    }\n  }, {\n    \"selector\": \"#edit-pass-pass1\",\n    \"value\": function($e, user) {\n      return user.password;\n    }\n    }]\n}\n];",
+        "code": "var rules = [{\"name\": \"w3schools Test Website\",\"url\": \"https://www.w3schools.com/howto/howto_css_contact_form.asp\",\"onlyEmpty\": false,\"before\": function(resolve, context) {  var user = JSON.parse(Libs.h.userData()); resolve(user);},\"fields\": [{  \"selector\": \"input[name=firstname]\", \"value\": function($e, user) {   return user.firstname;  }}, {  \"selector\": \"input[name=lastname]\",  \"value\": function($e, user) {   return user.lastname;  }}, {  \"selector\": \"#country\",  \"value\": function($e, user) {   return user.state;  }}]}];",
         "tabId": 1
       }
     ]
@@ -26,6 +26,6 @@
     "decryptionPassword": "undefined",
     "dontFireEvents": false,
     "isLoggedin": true,
-    "userData": "{\"username\":\"lazyduck408\",\"password\":\"jokers\",\"first\":\"hoogmoed\",\"last\":\"romain\",\"email\":\"romain.hoogmoed@example.com\",\"phone\":\"(656)-976-4980\",\"state\":\"zeeland\"}"
+    "userData": "{\"username\":\"lazyduck408\",\"password\":\"jokers\",\"firstname\":\"hoogmoed\",\"lastname\":\"romain\",\"email\":\"romain.hoogmoed@example.com\",\"phone\":\"(656)-976-4980\",\"state\":\"usa\"}"
   }
 }
